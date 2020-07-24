@@ -1,4 +1,4 @@
-# Hand-Sign-Classification-0-5
+# Hand-Sign-Classification (0-5)
 - Implemented helper functions that you will use when implementing a TensorFlow model
 - Implemented a fully functioning ConvNet using TensorFlow
 - Built and trained a ConvNet in TensorFlow for a classification problem
